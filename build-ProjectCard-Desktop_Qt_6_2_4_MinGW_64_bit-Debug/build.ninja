@@ -159,7 +159,7 @@ build ProjectCard_autogen/EWIEGA46WW/qrc_Imagenssss.cpp | ${cmake_ninja_workdir}
 #############################################
 # Phony custom command for CMakeFiles\ProjectCard_autogen_timestamp_deps
 
-build CMakeFiles/ProjectCard_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/ProjectCard_autogen_timestamp_deps: phony C$:/Qt/6.2.4/mingw_64/./bin/uic.exe C$:/Qt/6.2.4/mingw_64/bin/Qt6Core.dll C$:/Qt/6.2.4/mingw_64/./bin/moc.exe C$:/Qt/6.2.4/mingw_64/bin/Qt6Widgets.dll
+build CMakeFiles/ProjectCard_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/ProjectCard_autogen_timestamp_deps: phony C$:/Qt/6.2.4/mingw_64/./bin/moc.exe C$:/Qt/6.2.4/mingw_64/./bin/uic.exe C$:/Qt/6.2.4/mingw_64/bin/Qt6Core.dll C$:/Qt/6.2.4/mingw_64/bin/Qt6Widgets.dll
 
 
 #############################################
