@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "C:/Users/kevin/Documents/DatosProyectos/build-ProjectCard-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/ProjectCard_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/kevin/Documents/DatosProyectos/build-ProjectCard-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/kevin/Documents/DatosProyectos/build-ProjectCard-Desktop_Qt_6_2_4_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/kevin/Documents/DatosProyectos/ProjectCard",
+	"CMAKE_SOURCE_DIR" : "C:/Users/kevin/Documents/DatosProyectos/ProjectCard",
+	"INCLUDE_DIR" : "C:/Users/kevin/Documents/DatosProyectos/build-ProjectCard-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/ProjectCard_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/kevin/Documents/DatosProyectos/ProjectCard/CardImages/02.png",
+		"C:/Users/kevin/Documents/DatosProyectos/ProjectCard/CardImages/fondoNaranja.png",
+		"C:/Users/kevin/Documents/DatosProyectos/ProjectCard/CardImages/04.png",
+		"C:/Users/kevin/Documents/DatosProyectos/ProjectCard/CardImages/05.png",
+		"C:/Users/kevin/Documents/DatosProyectos/ProjectCard/CardImages/03.png",
+		"C:/Users/kevin/Documents/DatosProyectos/ProjectCard/CardImages/01.png",
+		"C:/Users/kevin/Documents/DatosProyectos/ProjectCard/CardImages/06.png"
+	],
+	"LOCK_FILE" : "C:/Users/kevin/Documents/DatosProyectos/build-ProjectCard-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/ProjectCard_autogen.dir/AutoRcc_Imagenssss_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Imagenssss" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Imagenssss.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.2.4/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/kevin/Documents/DatosProyectos/build-ProjectCard-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/ProjectCard_autogen.dir/AutoRcc_Imagenssss_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/kevin/Documents/DatosProyectos/ProjectCard/Imagenssss.qrc",
+	"VERBOSITY" : 0
+}
