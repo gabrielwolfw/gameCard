@@ -1,2 +1,2 @@
 # gameCard
-This is little game :(
+This is a little game :(
